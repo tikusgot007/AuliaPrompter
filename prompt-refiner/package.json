@@ -1,0 +1,10 @@
+{
+  "name": "prompt-refiner",
+  "version": "1.0.0",
+  "description": "Alat penyempurna prompt interaktif — ubah gagapan menjadi prompt siap tempel.",
+  "bin": {
+    "prompt-refiner": "prompt-refiner.js"
+  },
+  "preferGlobal": true,
+  "license": "MIT"
+}
